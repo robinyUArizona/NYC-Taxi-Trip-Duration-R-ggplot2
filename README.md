@@ -1,4 +1,5 @@
 # NYC-Taxi-Trip-Duration-R-ggplot2
+![](NYC-Taxi-Trip-Duration-Pic.PNG)
 
 It is important for the taxi company or taxi owner to keep track of “total ride duration of taxi trips”. So that they can have better chance of predicting the customer availability, time and money. This competition main goal was to give an illustrative learning platform to learner who is interested in the field of Data Science. Hence, helping learner to learn will ultimately help in business growth.
 
