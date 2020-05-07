@@ -1,10 +1,10 @@
-# NYC-Taxi-Trip-Duration-R-ggplot2
+# NYC-Taxi-Trip-Duration-R
 ![](NYC-Taxi-Trip-Duration-Pic.PNG)
 
-It is important for the taxi company or taxi owner to keep track of “total ride duration of taxi trips”. So that they can have better chance of predicting the customer availability, time and money. This competition main goal was to give an illustrative learning platform to learner who is interested in the field of Data Science. Hence, helping learner to learn will ultimately help in business growth.
+The New York Times reported on May 22, 2019 that the NYC Yellow Taxi organization revenue has decreased by about 10 percent per cab since Uber entered New York in 2011. The NYC Yellow Taxi minimum base fare is $5.80 while Uber minimum base fare is $10.75.  And it is found that the Uber is cheap after fare amount $35, which depends on the distance travelled, pickup time, geo-coordinates, number of passengers, and several other variables.
 
 # File descriptions
-**NYC-Taxi Trip Duration Analysis in R.ipynb** - Explore job description datasets and also provides a brief modular explaoratory data analysis. <br/>
+**NYC-Taxi Trip Duration Analysis and Predictive Modelling in R.ipynb** - Explored and feature engineered the NYC Taxi Trip Duration dataset and built a predictive Machine Learning Model. <br/>
 **readme.md** - This file <br/>
 
 
